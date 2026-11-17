@@ -1,0 +1,4 @@
+﻿  UnitTest9ю1.cpp
+     Creating library C:\Users\denys\source\repos\VS\9.1\x64\Debug\UnitTest9ю1.lib and object C:\Users\denys\source\repos\VS\9.1\x64\Debug\UnitTest9ю1.exp
+LINK : warning LNK4232: name UnitTest9ю1.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest9ю1.vcxproj -> C:\Users\denys\source\repos\VS\9.1\x64\Debug\UnitTest9ю1.dll
